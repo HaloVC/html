@@ -65,3 +65,10 @@ ul{list-style: none;
     margin-left: 20px;
   }
 
+  /*SHOCASE*/
+  .showcase {
+    width: 100%;
+    background: red;
+  }
+  
+
