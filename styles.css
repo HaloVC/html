@@ -68,7 +68,25 @@ ul{list-style: none;
   /*SHOCASE*/
   .showcase {
     width: 100%;
-    background: red;
+    height: 550px;
+    background: url(img/showcase2.jpg) no-repeat center center/cover;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: ;
   }
-  
+
+  .btn {
+    cursor: pointer;
+    display: inline-block;
+    border: 0;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #262626;
+    color: #ffffff;
+    font-size: 15px;
+    border: 1px;
+  }
+
 
