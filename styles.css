@@ -104,7 +104,28 @@ ul{list-style: none;
   .showcase p {
     margin-bottom: 10px;
   }
+ /*NEW CARDS*/
+ .news-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 25px;
+  margin: 10px 0;
+}
 
-  
+ .news-cards {
+  width: 100%;
+  height: 180%;
+ }
+
+ .news-cards h3 {
+  font-size: 20px;
+  margin: 10px 0;
+ }
+ 
+ .news-cards a {
+  padding: 10px0;
+  color: #f2f2f2;
+ }
+
 
 
