@@ -156,6 +156,10 @@ ul{list-style: none;
 .cards-banner-two{
   width: 40%;
   padding: 350px;
- background: url("./img/image-five.jpg") repeat center center/cover;
+ background: url("./img/image-five.jpg") no-repeat center center/cover;
+}
 
+.cards-banner-two .content{
+  width: 50%;
+  padding: 100px;
 }
