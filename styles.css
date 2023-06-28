@@ -166,4 +166,10 @@ ul{list-style: none;
   margin: center;
   font-size: 20px;
 }
+/*centrado aliniado*/
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
+}
