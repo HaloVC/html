@@ -160,3 +160,10 @@ ul{list-style: none;
   width: 50%;
   padding: 100px 0 0 30;
 }
+
+/*social (deseños de redes sociales)*/
+.social p {
+  margin: center;
+  font-size: 20px;
+}
+
