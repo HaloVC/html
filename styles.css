@@ -171,5 +171,12 @@ ul{list-style: none;
   display: flex;
   align-items: center;
   justify-content: center;
+}
 
+.links a {  
+  padding: 0 30px;
+}
+/*los iconos*/
+.links a i {
+  font-size: 3rem;
 }
