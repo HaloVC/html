@@ -180,4 +180,11 @@ ul{list-style: none;
 .links a i {
   font-size: 3rem;
 }
+/* FOOTER LINKS */
+.footer-links {
+  background: #2f3640;
+  color: #616161;
+  font-size: 12px;
+}
+
 
