@@ -187,4 +187,19 @@ ul{list-style: none;
   font-size: 12px;
 }
 
+/*centrar el contenido*/
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px; /*separacionde columna*/
+  align-items: flex-start;
+  justify-content: center;
+} 
+/*listas ul*/
+footer-container ul {
+  margin: auto;  
+}
+
+
+
 
