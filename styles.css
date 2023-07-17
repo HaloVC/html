@@ -220,6 +220,11 @@ margin: auto;
   padding-bottom: 20px;
 }
 
+@media (max-width: 768px) {
+  .news-cards {
+    grid-template-columns: repeat(2, 1 fill-rule);
+  }
 
-/*estamos en 52:42 */
+
+/*estamos en 53:14 */
  
