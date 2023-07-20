@@ -220,11 +220,19 @@ margin: auto;
   padding-bottom: 20px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 700px) {
   .news-cards {
     grid-template-columns: repeat(2, 1 fill-rule);
   }
 
+  .cards-banner-one .content,
+  .cards-banner-one .content
+   {
+    width: 80%;
+  }
 
-/*estamos en 53:14 */
+    
+
+
+/*estamos en 56:00 */
  
