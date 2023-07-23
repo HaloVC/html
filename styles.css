@@ -221,6 +221,14 @@ margin: auto;
 }
 
 @media (max-width: 700px) {
+
+  .nav-main ul.nav-menu {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: 2f3640;
+  }
   .news-cards {
     grid-template-columns: repeat(2, 1 fill-rule);
   }
@@ -234,5 +242,5 @@ margin: auto;
     
 
 
-/*estamos en 56:00 */
- 
+/*estamos en 56:00*/
+}
