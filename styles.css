@@ -228,6 +228,8 @@ margin: auto;
     top: 0;
     left: 0;
     background: 2f3640;
+    height: 100%;
+    transform: translate(-20px);
   }
   .news-cards {
     grid-template-columns: repeat(2, 1 fill-rule);
@@ -242,5 +244,5 @@ margin: auto;
     
 
 
-/*estamos en 56:00*/
+/*estamos en 57:00*/
 }
