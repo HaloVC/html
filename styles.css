@@ -17,7 +17,6 @@ body {
 font-family: 'Oswald', sans-serif;
 }
 
-
 h2 {
   color: #2dbd47;
 }
@@ -46,7 +45,7 @@ ul{list-style: none;
 .nav-brand {
   width: 50px;
 }
-/* Navbar Left */
+/* Nav Left */
 .nav-main ul {
   display: flex;
 }
@@ -61,7 +60,7 @@ ul{list-style: none;
 
 
 .nav-main ul li a:hover {
-  border-bottom: 2px solid #fff;
+  border-bottom: 2px solid #ffffff;
 }
 
 .nav-main ul.nav-menu {
@@ -236,9 +235,13 @@ margin: auto;
   }
 
   .cards-banner-one .content,
-  .cards-banner-one .content
+  .cards-banner-two  .content
    {
     width: 80%;
+  }
+
+  .footer-links .footer-container{
+    grid-template-columns: repeat(2,1fr) ;
   }
 
     
